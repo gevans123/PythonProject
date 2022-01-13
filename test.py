@@ -5,4 +5,4 @@ for n in range(2, 10):
             break
     else:
         # loop fell through without finding a factor
-        print(n, 'is a prime number (test)')
+        print(n, 'is a prime number (testing)')
